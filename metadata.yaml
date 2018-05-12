@@ -1,0 +1,27 @@
+_repo: The-Hawk-of-Egypt_15721
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Conquest, Joan
+    birthdate: 1883
+    deathdate: 1941
+    gutenberg_agent_id: '5938'
+    url: http://www.gutenberg.org/2009/agents/5938
+description: ''
+gutenberg_bookshelf: Egypt
+gutenberg_issued: '2005-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15721'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Egypt -- Fiction'
+title: The Hawk of Egypt
+url: http://www.gutenberg.org/ebooks/15721
